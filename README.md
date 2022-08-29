@@ -13,7 +13,15 @@ Modeler, SCRUM, Ágil, IBM Watson, Node-red</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Meus Links: https://linktr.ee/JhonatasOliveira
+</p>
+
+<p align="left">
+  Email: Jhonatas2004@gmail.com
+</p>
+
+<p align="left">
+  Contato: (11) 95781-8539
 </p>
 
 <p align="left">
