@@ -1,15 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Estudando desenvolvimento Full Stack, com foco no back-end na linguagem Java. Desejo de adquirir conhecimento e conviver em squad, prestando serviços no desenvolvimento de aplicações e manutenção nos sistemas. Atualmente no 2ºsem da faculdade de análise e desenvolvimento de sistemas</p>
+Estudando e aprofundando no desenvolvimento Back-End com foco em web-services, construções de API'Rest e API'RestFull e consumo no React. A procura de oportunidades na area, perfil proativo, e com foco no desenvolvimento.</p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Java, JavaScript, Python, Pandas, HTML5, CSS3, React, Hooks, API, SQL, Oracle Data
-Modeler, SCRUM, Ágil, IBM Watson, Node-red</strong>
+   Linguagens: <strong> SpringBoot, Java, React, SQL, JS, Machine Learning com Python, node-red, Watson-Assistent.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, GitHub, SCRUM, PMI, KanbanFlow, VScode, EclipeseIDE</strong>
+  💼 Ferramentas: <strong>Git, GitHub, SCRUM, PMI, KanbanFlow, VScode, EclipeseIDE, IntelliJ</strong>
 </p>
 
 <p align="left">
@@ -26,10 +25,10 @@ Modeler, SCRUM, Ágil, IBM Watson, Node-red</strong>
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Jhonatas2004@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-oliveira-0039a01bb/" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
