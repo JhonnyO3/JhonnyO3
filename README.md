@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Estudando e aprofundando no desenvolvimento Back-End com foco em web-services, construções de API'Rest e API'RestFull e consumo no React. A procura de oportunidades na area, perfil proativo, e com foco no desenvolvimento.</p>
+Estudando e aprofundando no desenvolvimento Back-End com foco em web-services, construções de API'Rest e API'RestFull e consumo no React.
+   Conhecimentos basicos de infra-estrutura em nuvem AWS, conhecimento em análise de massa de dados utilizando IA com Machine Learning em Python.
+   A procura de oportunidades na area, perfil proativo, e com foco no desenvolvimento.</p>
 
 <p align="left">
    Linguagens: <strong> SpringBoot, Java, React, SQL, JS, Machine Learning com Python, node-red, Watson-Assistent.</strong>
