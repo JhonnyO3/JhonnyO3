@@ -43,7 +43,6 @@
   <a href="https://www.rabbitmq.com/"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
   <a href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
   <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/></a>
   <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
 </p>
 
@@ -55,14 +54,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyo3&layout=compact&theme=radical&hide=css,html" width="300"/>
 </p>
 
----
-
-<h3 align="center">🔥 GitHub Activity & Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnyo3&theme=dark" alt="GitHub Streak" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=jhonnyo3&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
-
+<br/>
 <h3 align="center">🚀 Let's build scalable and secure software together!</h3>
